@@ -1,0 +1,18 @@
+{
+  "name": "cat-cards-application",
+  "version": "1.0.0",
+  "description": "Cat images display application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ashan Lakshith Thotawatta",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "minimist": "^1.2.6",
+    "request": "^2.88.2"
+  },
+  "type": "module"
+}
